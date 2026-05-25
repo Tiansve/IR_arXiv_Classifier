@@ -1,0 +1,15 @@
+Best config: mpnet_logreg
+
+              precision    recall  f1-score   support
+
+  ai_general     0.6087    0.6176    0.6131        68
+      cl_nlp     0.6301    0.6765    0.6525        68
+   cv_vision     0.7910    0.7681    0.7794        69
+ir_retrieval     0.8194    0.8551    0.8369        69
+       lg_ml     0.6379    0.5362    0.5827        69
+     stat_ml     0.7808    0.8261    0.8028        69
+
+    accuracy                         0.7136       412
+   macro avg     0.7113    0.7133    0.7112       412
+weighted avg     0.7118    0.7136    0.7116       412
+

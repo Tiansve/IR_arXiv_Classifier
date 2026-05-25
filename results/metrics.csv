@@ -1,0 +1,7 @@
+config,val_macro_f1,test_acc,test_macro_f1,test_weighted_f1
+mpnet_logreg,0.7581,0.7136,0.7112,0.7116
+tfidf_logreg,0.7499,0.7403,0.739,0.7394
+mpnet_linsvm,0.746,0.7233,0.72,0.7204
+mpnet_mlp,0.7444,0.7282,0.7252,0.7256
+minilm_logreg,0.7356,0.716,0.7124,0.7125
+e5_logreg,0.7179,0.7063,0.7058,0.706
